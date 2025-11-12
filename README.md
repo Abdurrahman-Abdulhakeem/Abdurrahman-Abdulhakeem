@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdurrahman Abdulhakeem
 
-<!--
-**Abdurrahman-Abdulhakeem/Abdurrahman-Abdulhakeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Fullstack Developer | Building Interactive, Scalable Web Applications
 
-Here are some ideas to get you started:
+I'm a passionate software developer with strong experience in **React, Next.js, Django, and Node.js**.  
+I enjoy creating web solutions that are both functional and user-focused, with clean architecture and efficient backend design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Core Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, Django, DRF  
+- **Database:** MongoDB, PostgreSQL  
+- **Tools:** Git, Redux Toolkit, REST APIs, Agile
+
+---
+
+### 🚀 Current Projects
+- **Chat Monorepo** — Real-time chat application
+- **Serenity Hospital Admin** — Fullstack admin dashboard with advanced analytics    
+- **DeFootwear** — Modern footwear e-commerce app  
+
+---
+
+### 🌱 Currently Exploring
+- Advanced API architecture & optimization  
+- Building scalable SaaS templates for startups  
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/abdurrahman-abdulhakeem-322890239)  
+- [X (Twitter)](https://x.com/rammyscript)  
+- [Portfolio](https://rammyscript.vercel.app)  
+
+---
+
+> “Building applications. Solid engineering. Continuous learning. Real impact.”
+
