@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdurrahman Abdulhakeem
+# 👋🏾 Hi, I'm Abdurrahman Abdulhakeem
 
 ### 💻 Fullstack Developer | Building Interactive, Scalable Web Applications
 
@@ -18,7 +18,7 @@ I enjoy creating web solutions that are both functional and user-focused, with c
 ### 🚀 Current Projects
 - **Chat Monorepo** — Real-time chat application
 - **Serenity Hospital Admin** — Fullstack admin dashboard with advanced analytics    
-- **DeFootwear** — Modern footwear e-commerce app  
+- **TaskPilot** — A space for artisans to connects with real clients, showcase their skills, and grow their work  
 
 ---
 
