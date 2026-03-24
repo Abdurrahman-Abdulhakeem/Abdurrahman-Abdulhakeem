@@ -1,39 +1,27 @@
-# 👋🏾 Hi, I'm Abdurrahman Abdulhakeem
+# Abdurrahman Abdulhakeem
 
-### 💻 Fullstack Developer | Building Interactive, Scalable Web Applications
+Fullstack engineer focused on building well-architected web applications. I work across the stack with React, Next.js, Node.js, and Django — prioritizing clean APIs, maintainable code, and practical UX.
 
-I'm a passionate software developer with strong experience in **React, Next.js, Django, and Node.js**.  
-I enjoy creating web solutions that are both functional and user-focused, with clean architecture and efficient backend design.
+## Stack
 
----
+**Frontend:** React · Next.js · Tailwind CSS  
+**Backend:** Node.js · Express · Django · DRF  
+**Data:** PostgreSQL · MongoDB  
+**Tooling:** Git · Redux Toolkit · REST APIs
 
-### 🧠 Core Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express, Django, DRF  
-- **Database:** MongoDB, PostgreSQL  
-- **Tools:** Git, Redux Toolkit, REST APIs, Agile
+## Projects
 
----
+| Project | Description |
+|---|---|
+| **Chat Monorepo** | Real-time chat application |
+| **Serenity Hospital Admin** | Fullstack admin dashboard with advanced analytics |
+| **TaskPilot** | Marketplace connecting artisans with clients |
 
-### 🚀 Current Projects
-- **Chat Monorepo** — Real-time chat application
-- **Serenity Hospital Admin** — Fullstack admin dashboard with advanced analytics    
-- **TaskPilot** — A space for artisans to connects with real clients, showcase their skills, and grow their work  
+## Currently working on
 
----
+- API architecture & performance optimization  
+- Scalable SaaS starter templates for early-stage startups  
 
-### 🌱 Currently Exploring
-- Advanced API architecture & optimization  
-- Building scalable SaaS templates for startups  
+## Links
 
----
-
-### 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/abdurrahman-abdulhakeem-322890239)  
-- [X (Twitter)](https://x.com/rammyscript)  
-- [Portfolio](https://rammyscript.vercel.app)  
-
----
-
-> “Building applications. Solid engineering. Continuous learning. Real impact.”
-
+[LinkedIn](https://linkedin.com/in/abdurrahman-abdulhakeem-322890239) · [X](https://x.com/rammyscript) · [Portfolio](https://rammyscript.vercel.app)
